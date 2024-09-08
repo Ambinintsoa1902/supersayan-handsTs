@@ -1,0 +1,25 @@
+{
+  "name": "chap1",
+  "version": "1.0.0",
+  "description": "handsTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ambinintsoa1902/supersayan-handsTs.git"
+  },
+  "keywords": [
+    "19028817"
+  ],
+  "author": "supersayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambinintsoa1902/supersayan-handsTs/issues"
+  },
+  "homepage": "https://github.com/Ambinintsoa1902/supersayan-handsTs#readme",
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
